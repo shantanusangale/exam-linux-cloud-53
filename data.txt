@@ -1,0 +1,9 @@
+Picking a career path can feel like navigating a maze with % symbols at every turn.
+According to a recent study, 62% of graduates end up in a different field than they originally planned.
+But fear not!  There are ways to make sense of the confusion.
+Start by reflecting on your skills and interests.
+Do numbers excite you, or do you crave creative expression with words and symbols? Research potential careers that align with your strengths.
+Remember, lifelong learning (symbolized by ) is key to staying relevant  in today's ever-changing job market.
+
+series doesn't work with negative index
+series supports scaler operation
